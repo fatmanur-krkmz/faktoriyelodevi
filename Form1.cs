@@ -13,6 +13,7 @@ namespace faktoriyelodevi
     public partial class İşlemler : Form
     {
         int sayi;
+        int sayi2;
       
         public İşlemler()
         {
